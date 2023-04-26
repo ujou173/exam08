@@ -1,0 +1,15 @@
+{
+  "name": "exam08",
+  "version": "1.0.0",
+  "description": "",
+  "main": "노수민.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.0"
+  }
+}
